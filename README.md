@@ -9,6 +9,7 @@ Just some badly written bash scripts to install Gentoo linux
     desktop install
   
 ###  PROFILES:
+    uses systemd
     minimal: Equivalent to base and base-devel package on archlinux + some extras
     server: minimal profile + pipewire, docker and nginx (not tested)
       server docker: minimal profile + pipewire and nginx in docker (not tested)
