@@ -4,8 +4,8 @@ Just some badly written bash scripts to install Gentoo linux
 ## Hints
 
 ###  TESTED:
-    minimal install
-    desktop install
+minimal install
+desktop install
   
 ###  PROFILES:
 uses systemd and distkernel
